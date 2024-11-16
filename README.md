@@ -9,7 +9,7 @@
 - [HTML Details](#html-details)
 - [CSS Styling](#css-styling)
 - [Deployment](#deployment)
-- [Summary of Selectors Used](#Summary-of-Selectors-Used)
+- [Selectors Used in the Project](#Selectors-Used-in-the-Project)
 
 ---
 
