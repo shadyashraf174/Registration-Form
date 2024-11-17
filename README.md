@@ -1,5 +1,6 @@
 # Registration Form
-#### learned it from freecodecamp
+#### learned it from [freeCodeCamp](https://www.freecodecamp.org/)
+###### You can use HTML forms to collect information from people who visit your webpage. In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
 ---
 
 ## Table of Contents
@@ -73,7 +74,7 @@ The CSS file (`styles.css`) provides a modern, responsive design:
 ## Deployment
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shadyashraf174/Registration-Form
    ```
 2. Open the `index.html` file in any web browser.
 
